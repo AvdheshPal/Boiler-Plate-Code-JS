@@ -2,7 +2,7 @@ function runProgram(input) {
   console.log(input)
 }
 
-runProgram(``);
+runProgram(`something`);
 process.stdin.resume();
 process.stdin.setEncoding("ascii");
 let read = "";
